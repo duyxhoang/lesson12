@@ -1,0 +1,119 @@
+#khunglon{
+	width: 600px;
+	height: 600px;
+	background: red;
+	float: left;
+}
+#khungnho{
+	width: 200px;
+	height: 200px;
+	background: cyan;
+	margin-left: 200px;
+	margin-top: 200px;
+}
+
+/*#all{
+	width: 600px;
+	height: 600px;
+	margin: auto;
+
+}
+.dong{
+	width: 600px;
+	height: 200px;
+}
+.xam{
+	width: 200px;
+	height: 200px;
+	background: grey;
+	float: left;
+}
+.trang{
+	width: 200px;
+	height: 200px;
+	background: white;
+	float: left;
+}*/
+/*#all{
+	width: 1000px;
+	height: 400px;
+	margin: auto;
+}
+.dong{
+	width: 1000px;
+	height: 200px;
+}
+.red{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: red;
+}
+.white{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: white;
+}
+.yellow{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: yellow;
+}
+.green{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: green;
+}
+.blue{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: blue;
+}
+.purple{
+	width: 200px;
+	height: 200px;
+	float: left;
+	background: purple;
+}*/
+#all{
+	width: 700px;
+	height: 900px;
+	margin: auto;
+}
+.dongle{
+	width: 700px;
+	height: 100px;
+}
+.dongchan{
+	width: 700px;
+	height: 200px;
+}
+.trangnho{
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: white;
+}
+.do{
+	width: 100px;
+	height: 100px;
+	float: left;
+	background: red;
+}
+.trangto{
+	width: 100px;
+	height: 200px;
+	float: left;
+	background: white;
+}
+
+.xam{
+	width: 100px;
+	height: 200px;
+	float: left;
+	background: grey;
+}
